@@ -5,14 +5,14 @@ int x[5],z,y,n,m,ctr,p;
 int main()
 {  
 p=5;
-system ("clear");
+
 ctr=0;
     for(z=0;z<5;z++)
     {
         cout<<"Enter an integer: ";
         cin>>x[z];
     }
-            system ("clear");
+            
             
             cout<<"you entered: "<<endl;
             
